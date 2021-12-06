@@ -1,0 +1,19 @@
+[
+    {
+        "Name": "Indica Rice",
+        "Weight": 2,
+        "Price": 300,
+
+    },
+    {
+        "Name": "Pulses",
+        "Weight": 3,
+        "Price": 400
+    },
+    {
+        "Name": "Wheats",
+        "Weight": 1,
+        "Price": 100
+    }
+
+]
